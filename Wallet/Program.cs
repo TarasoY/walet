@@ -11,6 +11,7 @@ namespace Wallet
         static void Main(string[] args)
         {
             Console.WriteLine("START");
+            Console.WriteLine("Anastasiia Dzundza is making new changes");
         }
     }
 }
